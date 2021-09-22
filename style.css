@@ -1,0 +1,55 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    height: auto;
+}
+body {
+    background-color: rgb(49, 49, 49);
+}
+header {
+    color: white;
+}
+h1.tipo1 {
+    color: white;
+    text-align: center;
+    font-size: 85px;
+    margin: 165px 0px 0px 0px;
+}
+input.tipo1 {
+    padding: 1px;
+    margin: 15px;
+    border-radius: 20px;
+    width: 600px; position: relative; left: 50%; margin-left: -300px;
+    box-shadow: rgb(59, 59, 59) 1px 1px 1px 1px;
+}
+div > input {
+    height: 40px;
+    border-radius: 10px;
+}
+nav > a {
+    color: white;
+}
+a.tipo1 {
+    margin-left: 1000px;
+    position: relative;
+    left: 50%;
+    margin-left: 400px;
+}
+a.tipo2 {
+    margin-left: 20px;
+    position: relative;
+    left: 50%;
+}
+a.tipo3 > img {
+    margin-left: 430px;
+}
+a.tipo3 > img {
+    margin-left: 70px;
+}
+div > a > img {
+    width: 50px;
+    border-radius: 10px;
+    margin: 10px;
+}
+a.tipo4 {
+    margin-left: 450px;
+}
